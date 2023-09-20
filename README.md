@@ -4,7 +4,7 @@
 
 I'm an asipiring tech professional, always eager to learn and explore new technologies. I enjoy working on interesting and appliable projects that help with everyday life. 
 
-- 🔭 I’m currently working on Python focused projects.
+- 🔭 I’m currently working on Python, JS, and Cloud focused projects.
 - 🌱 I’m currently learning Python through personal projecs, CyberSecurity, and Linux!
 - 💬 Ask me about Business principles, Music Production, Cyber Security.
 - 📫 How to reach me: Street.mgmt@gmail.com.
