@@ -6,7 +6,7 @@ I'm an asipiring tech professional, always eager to learn and explore new techno
 
 - 🔭 I’m currently working on Python, JS, and Cloud focused projects.
 - 🌱 I’m currently learning Python/ Javascript through personal projecs, and backend developement.
-- 💬 Ask me about Business principles, Music Production, Cyber Security.
+- 💬 Ask me about Business principles, Music Production, Cyber Security, and Telemetry Data.
 - 📫 How to reach me: Street.mgmt@gmail.com.
 - ⚡ Fun fact: I am a twin and have a BCOM in Management, and Entreprenuership & Business Strategy.
 
