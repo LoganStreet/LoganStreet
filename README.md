@@ -17,7 +17,7 @@ Here are some of the technologies and tools I work with:
 - Programming Languages: Python, SQL, JavaScript, HTML, CSS
 - Web Development: React, Node.js, Flask, Django
 - Database: MongoDB, MySQL
-- Other: RapidAPI/ API, Xampp, AD, VM's
+- Other: RapidAPI/ API, AD, VM's
 
 Feel free to reach out and say hi! 👋
 
