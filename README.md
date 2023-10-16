@@ -15,7 +15,7 @@ I'm an asipiring tech professional, always eager to learn and explore new techno
 Here are some of the technologies and tools I work with:
 
 - Programming Languages: Python, SQL, JavaScript, HTML, CSS
-- Web Development: React, Node.js, Flask, Django
+- Web Development: React, Node.js, Django
 - Database: MongoDB, MySQL
 - Other: RapidAPI/ API, AD, VM's
 
