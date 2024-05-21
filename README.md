@@ -19,5 +19,12 @@ Here are some of the technologies and tools I work with:
 - Database: MongoDB, MySQL
 - Other: RapidAPI/ API, AD, VM's
 
+## Certifications
+
+- AWS Certified Cloud Practitioner
+- ISC2 Certified in Cybersecurity
+- New Zealand Certificate in Information Technology
+- Google Cybersecurity Certificate
+
 Feel free to reach out and say hi! 👋
 
