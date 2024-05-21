@@ -2,13 +2,13 @@
 
 ## About Me
 
-I'm an asipiring tech professional, always eager to learn and explore new technologies. I enjoy working on interesting and appliable projects that help with everyday life. 
+I'm an asipiring cyber security professional, always eager to learn and explore new technologies. I enjoy working on interesting and appliable projects that help with everyday life. 
 
 - 🔭 I’m currently working on Python, Linux, and Cloud focused projects.
-- 🌱 I’m currently learning Python/ Javascript through personal projecs, and backend developement.
-- 💬 Ask me about Business principles, Cyber Security, and Telemetry Data.
+- 🌱 I’m currently learning Python/Linux through personal projecs, and cloud developement.
+- 💬 Ask me about Business principles, Cyber Security, and Telemetry Systems/Devices.
 - 📫 How to reach me: Street.mgmt@gmail.com.
-- ⚡ Fun fact: I am a twin and have a BCOM in Management, and Entreprenuership & Business Strategy.
+- ⚡ Fun fact: I am a twin and have a BCom in Management, and Entreprenuership & Business Strategy.
 
 ## Languages and Tools
 
