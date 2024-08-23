@@ -15,7 +15,7 @@ I'm an asipiring cyber security professional, always eager to learn and explore 
 Here are some of the technologies and tools I work with:
 
 - Programming Languages: Python, SQL, JavaScript, HTML, CSS
-- Database: MongoDB, MySQL
+- Flask
 
 ## Certifications
 
