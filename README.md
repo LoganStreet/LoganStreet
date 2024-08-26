@@ -2,11 +2,11 @@
 
 ## About Me
 
-I'm an asipiring cyber security professional, always eager to learn and explore new technologies. I enjoy working on interesting and appliable projects that help with everyday life. 
+I'm an asipiring Cybersecurity Professional, always eager to learn and explore new technologies. I enjoy working on interesting and appliable projects that help with everyday life. 
 
 - 🔭 I’m currently working on Python, Linux, and Security focused projects.
 - 🌱 I’m currently learning Python/Linux through personal projecs, and cloud developement.
-- 💬 Ask me about Business principles, Cyber Security, and Telemetry Systems/ IoT Devices.
+- 💬 Ask me about Business principles, Cybersecurity, and Telemetry Systems/ IoT Devices.
 - ⚡ Fun fact: I am a twin and have a BCom in Management, and Entreprenuership & Business Strategy.
 
 ## Languages and Tools
