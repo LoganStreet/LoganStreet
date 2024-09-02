@@ -15,6 +15,7 @@ Here are some of the technologies and tools I work with:
 
 - Programming Languages: Python, SQL, JavaScript
 - Flask
+- PuTTY
 
 ## Certifications
 
