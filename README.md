@@ -6,7 +6,7 @@ I'm an asipiring Cybersecurity professional, always eager to learn and explore n
 
 - 🔭 I’m currently working on Python, Linux, and Security focused projects.
 - 🌱 I’m currently learning Python/Linux through personal projecs, and cloud developement.
-- 💬 Ask me about Business principles, Cybersecurity, and Telemetry Systems/ IoT Devices.
+- 💬 Ask me about Business principles, Cybersecurity, and Telemetry Systems/ SCADA IoT Devices.
 - ⚡ Fun fact: I am a twin and have a BCom in Management, and Entreprenuership & Business Strategy.
 
 ## Languages and Tools
