@@ -23,5 +23,5 @@ Here are some of the technologies and tools I work with:
 - New Zealand Certificate in Information Technology
 - Google Cybersecurity Certificate
 
-Feel free to reach out and say hi! 👋
+Feel free to reach out and say hi!
 
