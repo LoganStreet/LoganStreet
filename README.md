@@ -14,7 +14,6 @@ I'm an asipiring Cybersecurity professional, always eager to learn and explore n
 Here are some of the technologies and tools I work with:
 
 - Programming Languages: Python
-- Flask
 
 ## Certifications
 
