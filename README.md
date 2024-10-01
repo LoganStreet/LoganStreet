@@ -21,6 +21,8 @@ Here are some of the technologies and tools I work with:
 - ISC2 Certified in Cybersecurity
 - New Zealand Certificate in Information Technology
 - Google Cybersecurity Certificate
+- CompTIA Security +
+
 
 Feel free to reach out and say hi!
 
